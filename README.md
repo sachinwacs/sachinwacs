@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there
 
-<!--
-**sachinwacs/sachinwacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Chinthana Sachin
 
-Here are some ideas to get you started:
+Aspiring Data Analyst | Business Information Systems Graduate  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With strong problem-solving, critical thinking, and communication skills, I am motivated to contribute to data analytics-related roles by transforming raw data into meaningful insights that support data-driven decision-making.
+
+### What I Do
+- Clean, transform, and analyse data to generate insights
+- Build interactive dashboards and reports for data-driven decision making
+- Apply analytical thinking to solve real-world business problems
+
+### Skills & Tools
+- **Analytical Tools:** Advanced Excel, Power BI 
+- **Database:** SQL (MySQL)  
+- **Programming:** Python  
+
+### Contact
+- LinkedIn: https://www.linkedin.com/in/sachinwacs  
+- Email: sachinwacs@gmail.com
+
+
