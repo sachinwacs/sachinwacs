@@ -1,6 +1,6 @@
 ## Hi there
 
-# I'm Chinthana Sachin
+### I'm Chinthana Sachin
 
 Aspiring Data Analyst | Business Information Systems Graduate  
 
@@ -16,7 +16,7 @@ With strong problem-solving, critical thinking, and communication skills, I am m
 - **Database:** SQL (MySQL)  
 - **Programming:** Python  
 
-### Contact
+### Contact Details
 - LinkedIn: https://www.linkedin.com/in/sachinwacs  
 - Email: sachinwacs@gmail.com
 
